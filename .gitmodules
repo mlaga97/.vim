@@ -1,0 +1,15 @@
+[submodule "pack/mlaga97/start/nerdtree"]
+	path = pack/mlaga97/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/mlaga97/start/vim-openscad-bosl2"]
+	path = pack/mlaga97/start/vim-openscad-bosl2
+	url = https://github.com/mlaga97/vim-openscad-bosl2.git
+[submodule "pack/mlaga97/start/vim-javascript"]
+	path = pack/mlaga97/start/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "pack/mlaga97/start/vim-jsx-pretty"]
+	path = pack/mlaga97/start/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
+[submodule "pack/mlaga97/start/vim-signify"]
+	path = pack/mlaga97/start/vim-signify
+	url = https://github.com/mhinz/vim-signify
